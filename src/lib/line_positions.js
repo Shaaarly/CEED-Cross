@@ -1,6 +1,6 @@
 function getElementCenter(element) {
     const { left, top, width, height } = element.getBoundingClientRect()
-    console.log(left, top, width, height)
+    // console.log(left, top, width, height)
     return {
         x: left + width / 2,
         y: top + height / 2

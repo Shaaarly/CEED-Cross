@@ -126,7 +126,7 @@ body {
 
 .line {
   background-color: var(--wheel-letter-selection);
-  height: 30px;
+  height: 10px;
   position: absolute;
   transform-origin: top left;
 }
